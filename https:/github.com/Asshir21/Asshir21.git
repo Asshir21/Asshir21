@@ -1,0 +1,111 @@
+File an issue about the selected text
+
+HTML
+Living Standard — Last Updated 8 December 2021
+← Index — Table of Contents — Acknowledgments →
+References
+References
+All references are normative unless marked "Non-normative".
+
+[ABNF]
+Augmented BNF for Syntax Specifications: ABNF, D. Crocker, P. Overell. IETF.
+[ABOUT]
+The 'about' URI scheme, S. Moonesamy. IETF.
+[APNG]
+(Non-normative) APNG Specification. S. Parmenter, V. Vukicevic, A. Smith. Mozilla.
+[ARIA]
+Accessible Rich Internet Applications (WAI-ARIA), J. Diggs, J. Nurthen, M. Cooper. W3C.
+[ARIAHTML]
+ARIA in HTML, S. Faulkner, S. O'Hara. W3C.
+[ATAG]
+(Non-normative) Authoring Tool Accessibility Guidelines (ATAG) 2.0, J. Richards, J. Spellman, J. Treviranus. W3C.
+[ATOM]
+(Non-normative) The Atom Syndication Format, M. Nottingham, R. Sayre. IETF.
+[BATTERY]
+(Non-normative) Battery Status API, A. Kostiainen, M. Lamouri. W3C.
+[BCP47]
+Tags for Identifying Languages; Matching of Language Tags, A. Phillips, M. Davis. IETF.
+[BEZIER]
+Courbes à poles, P. de Casteljau. INPI, 1959.
+[BIDI]
+UAX #9: Unicode Bidirectional Algorithm, M. Davis. Unicode Consortium.
+[BOCU1]
+(Non-normative) UTN #6: BOCU-1: MIME-Compatible Unicode Compression, M. Scherer, M. Davis. Unicode Consortium.
+[CESU8]
+(Non-normative) UTR #26: Compatibility Encoding Scheme For UTF-16: 8-BIT (CESU-8), T. Phipps. Unicode Consortium.
+[CHARMOD]
+(Non-normative) Character Model for the World Wide Web 1.0: Fundamentals, M. Dürst, F. Yergeau, R. Ishida, M. Wolf, T. Texin. W3C.
+[CHARMODNORM]
+(Non-normative) Character Model for the World Wide Web: String Matching, A. Phillips. W3C.
+[COMPOSITE]
+Compositing and Blending, R. Cabanier, N. Andronikos. W3C.
+[COMPUTABLE]
+(Non-normative) On computable numbers, with an application to the Entscheidungsproblem, A. Turing. In Proceedings of the London Mathematical Society, series 2, volume 42, pages 230-265. London Mathematical Society, 1937.
+[COOKIES]
+HTTP State Management Mechanism, A. Barth. IETF.
+[CSP]
+Content Security Policy, M. West, D. Veditz. W3C.
+[CSS]
+Cascading Style Sheets Level 2 Revision 2, B. Bos, T. Çelik, I. Hickson, H. Lie. W3C.
+[CSSALIGN]
+CSS Box Alignment, E. Etemad, T. Atkins. W3C.
+[CSSANIMATIONS]
+CSS Animations, D. Jackson, D. Hyatt, C. Marrin, S. Galineau, L. Baron. W3C.
+[CSSATTR]
+CSS Style Attributes, T. Çelik, E. Etemad. W3C.
+[CSSBG]
+CSS Backgrounds and Borders, B. Bos, E. Etemad, B. Kemper. W3C.
+[CSSBOX]
+CSS Box Model, E. Etemad. W3C.
+[CSSCASCADE]
+CSS Cascading and Inheritance, E. Etemad, T. Atkins. W3C.
+[CSSCONTAIN]
+CSS Containment, T. Atkins, F. Rivoal, V. Levin. W3C.
+[CSSCOLOR]
+CSS Color Module, T. Çelik, C. Lilley, L. Baron. W3C.
+[CSSCOLORADJUST]
+CSS Color Adjustment Module, E. Etemad, R. Atanassov, R. Lillesveen, T. Atkins. W3C.
+[CSSDEVICEADAPT]
+CSS Device Adaption, F. Rivoal, M. Rakow. W3C.
+[CSSDISPLAY]
+CSS Display, T. Atkins, E. Etemad. W3C.
+[CSSFONTLOAD]
+CSS Font Loading, T. Atkins, J. Daggett. W3C.
+[CSSFONTS]
+CSS Fonts, J. Daggett. W3C.
+[CSSFLEXBOX]
+CSS Flexible Box Layout, T. Atkins, E. Etemad, R. Atanassov. W3C.
+[CSSGC]
+CSS Generated Content, H. Lie, E. Etemad, I. Hickson. W3C.
+[CSSGRID]
+CSS Grid Layout, T. Atkins, E. Etemad, R. Atanassov. W3C.
+[CSSIMAGES]
+CSS Images Module, E. Etemad, T. Atkins, L. Verou. W3C.
+[CSSIMAGES4]
+CSS Images Module Level 4, E. Etemad, T. Atkins, L. Verou. W3C.
+[CSSINLINE]
+CSS Inline Layout, D. Cramer, E. Etemad. W3C.
+[CSSLISTS]
+CSS Lists and Counters, T. Atkins. W3C.
+[CSSLOGICAL]
+CSS Logical Properties, R. Atanassov, E. Etemad. W3C.
+[CSSMULTICOL]
+CSS Multi-column Layout, H. Lie, F. Rivoal, R. Andrew. W3C.
+[CSSOM]
+Cascading Style Sheets Object Model (CSSOM), S. Pieters, G. Adams. W3C.
+[CSSOMVIEW]
+CSSOM View Module, S. Pieters, G. Adams. W3C.
+[CSSOVERFLOW]
+CSS Overflow Module, L. Baron, F. Rivoal. W3C.
+[CSSPAINT]
+(Non-normative) CSS Painting API, I. Kilpatrick, D. Jackson. W3C.
+[CSSPOSITION]
+CSS Positioned Layout, R. Atanassov, A. Eicholz. W3C.
+[CSSPSEUDO]
+CSS Pseudo-Elements, D. Glazman, E. Etemad, A. Stearns. W3C.
+[CSSRUBY]
+CSS3 Ruby Module, R. Ishida. W3C.
+[CSSSCOPING]
+CSS Scoping Module, T. Atkins. W3C.
+[CSSSIZING]
+CS
